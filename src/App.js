@@ -11,7 +11,16 @@ function App() {
           <Dictionary />
         </main>
         <footer className="text-center">
-          <smaller>Coded by Yagmur Rizvi</smaller>
+          <small>
+            {" "}
+            <a
+              href="https://github.com/yagmurrizvi/dictionary-project"
+              target="_blank"
+            >
+              Open-source code
+            </a>{" "}
+            by Yagmur Rizvi
+          </small>
         </footer>
       </div>
     </div>
