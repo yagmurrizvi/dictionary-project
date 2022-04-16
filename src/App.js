@@ -16,6 +16,7 @@ function App() {
             <a
               href="https://github.com/yagmurrizvi/dictionary-project"
               target="_blank"
+              rel="noopener"
             >
               Open-source code
             </a>{" "}
