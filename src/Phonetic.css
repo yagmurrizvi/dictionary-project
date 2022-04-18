@@ -1,0 +1,8 @@
+.Phonetic {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.Phonetic .text {
+  opacity: 0.5;
+}
