@@ -13,14 +13,14 @@ function App() {
         <footer className="text-center">
           <small>
             {" "}
+            This page is coded by Yagmur Rizvi and{" "}
             <a
               href="https://github.com/yagmurrizvi/dictionary-project"
               target="_blank"
               rel="noreferrer"
             >
-              Open-source code
+              open-sourced on Github
             </a>{" "}
-            by Yagmur Rizvi
           </small>
         </footer>
       </div>
